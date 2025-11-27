@@ -7,7 +7,7 @@ import { ModalDialogParams } from "@nativescript/angular";
 import { Page } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./modal-view.component.html",
     styleUrls: ["./modal-view.component.css"]
 })

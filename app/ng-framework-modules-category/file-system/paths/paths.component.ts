@@ -4,7 +4,7 @@ import { knownFolders, path, File, Folder } from "@nativescript/core";
 // << fs-paths-import-code
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./paths.component.html"
 })
 export class PathsExampleComponent implements OnInit {

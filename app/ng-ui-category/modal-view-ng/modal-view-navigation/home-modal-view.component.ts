@@ -4,7 +4,7 @@ import { RouterExtensions } from "@nativescript/angular";
 import { ActivatedRoute } from "@angular/router";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./home-modal-view.component.html"
 })
 export class HomeModalViewComponent implements OnInit {

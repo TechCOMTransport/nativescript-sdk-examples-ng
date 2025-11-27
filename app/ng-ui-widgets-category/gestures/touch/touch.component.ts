@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { TouchGestureEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./touch.component.html"
 })
 export class TouchExampleComponent {

@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
 import { isAndroid } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./tips-and-tricks.component.html"
 })
 export class TipsAndTricksComponent {

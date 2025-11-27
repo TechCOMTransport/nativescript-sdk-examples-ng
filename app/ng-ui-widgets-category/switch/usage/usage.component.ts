@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { EventData, Switch } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class BasicSwitchComponent {

@@ -5,7 +5,7 @@ import { Trace } from "@nativescript/core";
 import { Utils } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./trace-specific-categories-example.component.html",
     styleUrls: ["./style.css"]
 })

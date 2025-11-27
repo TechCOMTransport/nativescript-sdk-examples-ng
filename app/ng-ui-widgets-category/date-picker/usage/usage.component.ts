@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { DatePicker } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class DatePickerUsageComponent {

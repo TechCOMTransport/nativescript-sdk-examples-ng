@@ -71,8 +71,7 @@ export const routerConfig = [
         MainViewComponent,
         ModalRootComponent,
         ModalViewActionBarComponent
-    ],
-    entryComponents: [ModalViewComponent, HomeModalViewComponent, ModalRootComponent]
+    ]
 })
 
 export class ModalViewExamplesModule {

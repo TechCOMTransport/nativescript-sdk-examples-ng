@@ -17,7 +17,7 @@ let launchListener,
     uncaughtErrorListener;
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./application-events.component.html"
 })
 export class ApplicationEventsComponent {

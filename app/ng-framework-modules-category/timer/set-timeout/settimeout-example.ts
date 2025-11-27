@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 import { Button, Color, EventData, Utils } from "@nativescript/core";
 @Component({
-    moduleId: module.id,
+    
     styleUrls: ["./settimeout-example.css"],
     templateUrl: "./settimeout-example.html"
 })

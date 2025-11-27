@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { View } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./chaining-animations.component.html"
 })
 export class ChainingAnimationsComponent {

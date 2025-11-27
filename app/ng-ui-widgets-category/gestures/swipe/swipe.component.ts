@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { SwipeGestureEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./swipe.component.html"
 })
 export class SwipeExampleComponent {

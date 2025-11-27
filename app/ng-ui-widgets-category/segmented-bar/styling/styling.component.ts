@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { SegmentedBarItem } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     styleUrls: ["./styling.component.css"],
     templateUrl: "./styling.component.html"
 })

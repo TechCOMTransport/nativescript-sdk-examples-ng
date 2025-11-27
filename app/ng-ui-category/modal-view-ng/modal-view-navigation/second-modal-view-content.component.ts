@@ -4,7 +4,7 @@ import { RouterExtensions } from "@nativescript/angular";
 import { ModalDialogParams } from "@nativescript/angular";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./second-modal-view-content.component.html",
     styleUrls: ["./second-modal-view-content.component.css"]
 })

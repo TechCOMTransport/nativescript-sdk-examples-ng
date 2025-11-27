@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Dialogs } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./alert-dialog.component.html"
 })
 export class AlertDialogComponent {

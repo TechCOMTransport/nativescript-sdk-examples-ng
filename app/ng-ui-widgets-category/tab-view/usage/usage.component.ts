@@ -1,9 +1,14 @@
 // >> tab-view-require
 import { Component } from "@angular/core";
-import { SelectedIndexChangedEventData } from "@nativescript/core";
+import { EventData } from "@nativescript/core";
+
+interface SelectedIndexChangedEventData extends EventData {
+    oldIndex: number;
+    newIndex: number;
+}
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class BasicTabViewComponent {

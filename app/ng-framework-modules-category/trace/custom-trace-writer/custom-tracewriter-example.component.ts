@@ -54,7 +54,7 @@ class TimestampConsoleWriter {
 // << trace-create-custom-writer
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./custom-tracewriter-example.component.html",
     styleUrls: ["./style.css"]
 })

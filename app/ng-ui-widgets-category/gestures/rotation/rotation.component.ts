@@ -4,7 +4,7 @@ import { GridLayout } from "@nativescript/core";
 import { RotationGestureEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./rotation.component.html"
 })
 export class RotationExampleComponent {

@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Button, EventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class ButtonUsageComponent {

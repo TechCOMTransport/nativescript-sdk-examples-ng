@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Color, Enums, Label } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./animating-properties.component.html"
 })
 export class AnimatingPropertiesComponent {

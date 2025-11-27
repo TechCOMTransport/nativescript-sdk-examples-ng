@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Dialogs } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./action-dialog.component.html"
 })
 export class ActionDialogComponent {

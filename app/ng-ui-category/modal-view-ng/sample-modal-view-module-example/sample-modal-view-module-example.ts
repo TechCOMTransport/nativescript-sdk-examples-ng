@@ -7,7 +7,7 @@ const dayDiff = (firstDate, secondDate) =>
     Math.round((secondDate - firstDate) / millisecondsInADay);
 
 @Component({
-    moduleId: module.id,
+    
     providers: [ModalDialogService],
     templateUrl: "./sample-modal-view-module-example.html"
 })

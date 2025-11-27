@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { File, Folder, knownFolders } from "@nativescript/core";
 // << fs-delete-import-code
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./delete.component.html"
 })
 export class DeleteExampleComponent {

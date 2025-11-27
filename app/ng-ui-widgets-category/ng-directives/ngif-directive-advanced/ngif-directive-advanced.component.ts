@@ -3,7 +3,7 @@ import { Component, OnInit } from "@angular/core";
 import { isAndroid, isIOS } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./ngif-directive-advanced.component.html",
 })
 export class NgIfAdvancedComponent implements OnInit {

@@ -5,7 +5,7 @@ import { Location, getCurrentLocation, isEnabled, distance, enableLocationReques
 import { Enums } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     styleUrls: ["./style.css"],
     templateUrl: "./basic-location-example.html"
 })

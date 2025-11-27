@@ -2,7 +2,7 @@ import { Component, ViewChild, ElementRef } from "@angular/core";
 import { Enums } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./width-height-properties.component.html",
     styleUrls: ["./width-height-properties.component.css"],
 })

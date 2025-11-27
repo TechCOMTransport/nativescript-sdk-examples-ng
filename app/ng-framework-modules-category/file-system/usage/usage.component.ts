@@ -4,7 +4,7 @@ import { knownFolders, path, File, Folder } from "@nativescript/core";
 // << fs-create-import-code
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class CreateExampleComponent {

@@ -5,7 +5,7 @@ import { ModalDialogOptions, ModalDialogService } from "@nativescript/angular";
 import { ModalRootComponent } from "./modal-root.component";
 
 @Component({
-    moduleId: module.id,
+    
     providers: [ModalDialogService],
     templateUrl: "./main-view.component.html"
 })

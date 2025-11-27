@@ -3,7 +3,7 @@ import { Component, OnInit } from "@angular/core";
 import { ItemService, Item } from "../usage/usage.service";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./styling.component.html",
     styleUrls: ["./styling.component.css"]
 })

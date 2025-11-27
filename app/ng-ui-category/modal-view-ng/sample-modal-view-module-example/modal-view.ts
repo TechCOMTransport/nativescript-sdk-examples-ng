@@ -4,7 +4,7 @@ import { ModalDialogParams } from "@nativescript/angular";
 import { DatePicker } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./modal-view.html",
 })
 export class ModalViewComponent implements OnInit {

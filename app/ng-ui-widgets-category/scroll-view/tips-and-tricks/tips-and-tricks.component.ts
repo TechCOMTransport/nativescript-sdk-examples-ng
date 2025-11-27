@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { ScrollView, ScrollEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     // >> (hide)
     styleUrls: ["./style.css"],
     // << (hide)

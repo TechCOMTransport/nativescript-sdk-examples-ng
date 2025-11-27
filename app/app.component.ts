@@ -3,7 +3,7 @@ import { RouterExtensions } from "@nativescript/angular";
 import { Application, ApplicationEventData, ApplicationSettings } from "@nativescript/core";
 import { DeepLinkData } from "./shared/deep-link-data";
 @Component({
-    moduleId: module.id,
+    
     selector: "sdk-app",
     template: `<page-router-outlet></page-router-outlet>`
 })

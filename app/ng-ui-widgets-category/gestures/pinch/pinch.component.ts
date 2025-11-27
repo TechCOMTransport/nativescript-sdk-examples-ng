@@ -6,7 +6,7 @@ import { PinchGestureEventData } from "@nativescript/core";
 let startScale = 1;
 // << (hide)
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./pinch.component.html"
 })
 export class PinchExampleComponent {

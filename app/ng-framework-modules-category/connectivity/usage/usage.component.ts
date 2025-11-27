@@ -3,7 +3,7 @@ import { Component, OnInit, OnDestroy } from "@angular/core";
 import { Connectivity } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 

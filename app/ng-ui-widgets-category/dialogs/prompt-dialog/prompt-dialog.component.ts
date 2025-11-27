@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { capitalizationType, Dialogs, inputType, PromptOptions, PromptResult } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./prompt-dialog.component.html"
 })
 export class PromptDialogComponent {

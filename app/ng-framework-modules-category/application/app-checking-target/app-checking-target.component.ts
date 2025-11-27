@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { isAndroid, isIOS } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./app-checking-target.component.html"
 })
 export class AppCheckingTargetExampleComponent {

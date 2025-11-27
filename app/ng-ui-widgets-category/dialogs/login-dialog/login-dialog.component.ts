@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Dialogs, LoginOptions, LoginResult } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./login-dialog.component.html"
 })
 export class LoginDialogComponent {

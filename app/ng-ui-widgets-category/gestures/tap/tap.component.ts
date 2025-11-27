@@ -4,7 +4,7 @@ import { GridLayout } from "@nativescript/core";
 import { GestureEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./tap.component.html"
 })
 export class TapExampleComponent {

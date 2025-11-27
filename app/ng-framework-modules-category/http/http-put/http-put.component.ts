@@ -4,7 +4,7 @@ import { MyHttpPutService } from "./http-put.services";
 
 @Component({
     selector: "sdk-http-put",
-    moduleId: module.id,
+    
     templateUrl: "./http-put.component.html",
     providers: [MyHttpPutService]
 })

@@ -4,7 +4,7 @@ import { MyHttpDeleteService } from "./http-delete.service";
 
 @Component({
     selector: "sdk-http-delete",
-    moduleId: module.id,
+    
     templateUrl: "./http-delete.component.html",
     providers: [MyHttpDeleteService]
 })

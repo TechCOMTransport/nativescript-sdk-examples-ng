@@ -2,7 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { Page, StackLayout } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./apply-style-code.component.html"
 })
 export class ApplyStyleCodeComponent implements OnInit {

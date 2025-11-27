@@ -3,7 +3,7 @@ import { Component, OnInit } from "@angular/core";
 import { knownFolders, path, File, Folder } from "@nativescript/core";
 // << fs-update-import-code
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./update.component.html"
 })
 export class UpdateExampleComponent implements OnInit {

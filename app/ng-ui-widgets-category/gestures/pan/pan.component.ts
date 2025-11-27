@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { PanGestureEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./pan.component.html"
 })
 export class PanExampleComponent {

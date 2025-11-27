@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
 import { WebView, LoadEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class UsageComponent {

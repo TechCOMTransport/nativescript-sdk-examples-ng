@@ -4,7 +4,7 @@ import { ItemService, Item } from "../usage/usage.service";
 import { ItemEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./tips-and-tricks.component.html"
 })
 export class ListViewTipsComponent implements OnInit {
@@ -31,7 +31,7 @@ export class ListViewTipsComponent implements OnInit {
 
 @Component({
     selector: "sdk-child-component",
-    moduleId: module.id,
+    
     template: `
         <StackLayout orientation="horizontal" class="list-group-item">
             <Label text="This is item with ID: " textWrap="true"></Label>

@@ -5,7 +5,7 @@ import { knownFolders, path, File, Folder } from "@nativescript/core";
 // << fs-read-import-code
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./read.component.html"
 })
 export class ReadExampleComponent implements OnInit {

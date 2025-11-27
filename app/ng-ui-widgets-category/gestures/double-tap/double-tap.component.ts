@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { GestureEventData, GridLayout } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./double-tap.component.html"
 })
 export class DoubleTapExampleComponent {

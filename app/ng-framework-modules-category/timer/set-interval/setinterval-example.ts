@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 import { Utils } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     styleUrls: ["./setinterval-example.css"],
     templateUrl: "./setinterval-example.html"
 })

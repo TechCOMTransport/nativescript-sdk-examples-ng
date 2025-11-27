@@ -1,9 +1,14 @@
 // >> add-segmentedbar-items
 import { Component, ChangeDetectionStrategy } from "@angular/core";
-import { SegmentedBar, SegmentedBarItem, SelectedIndexChangedEventData } from "@nativescript/core";
+import { SegmentedBar, SegmentedBarItem, EventData } from "@nativescript/core";
+
+interface SelectedIndexChangedEventData extends EventData {
+    oldIndex: number;
+    newIndex: number;
+}
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html",
     changeDetection: ChangeDetectionStrategy.OnPush
 })

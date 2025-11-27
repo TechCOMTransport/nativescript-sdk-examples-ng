@@ -5,7 +5,7 @@ import { Location, enableLocationRequest, watchLocation, clearWatch } from "@nat
 import { Enums } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./location-monitoring-example.html"
 })
 export class LocationMonitoringExampleComponent {

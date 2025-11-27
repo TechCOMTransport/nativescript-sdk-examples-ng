@@ -2,7 +2,7 @@
 import { Component } from "@angular/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./codebehind.component.html",
     styleUrls: ["./codebehind.css"],
 })

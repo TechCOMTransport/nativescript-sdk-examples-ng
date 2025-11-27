@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
 import { isAndroid, isIOS, Device, Screen } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./platform-module-example.html"
 })
 export class PlatformModuleExampleComponent {

@@ -4,7 +4,7 @@ import { ModalDialogOptions, ModalDialogService } from "@nativescript/angular";
 import { HomeModalViewComponent } from "./home-modal-view.component";
 
 @Component({
-    moduleId: module.id,
+    
     providers: [ModalDialogService],
     templateUrl: "./modal-view-navigation.component.html"
 })

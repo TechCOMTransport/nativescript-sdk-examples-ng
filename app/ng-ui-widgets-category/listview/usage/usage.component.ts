@@ -4,7 +4,7 @@ import { ItemService, Item } from "./usage.service";
 import { ItemEventData } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./usage.component.html"
 })
 export class ListViewUsageComponent implements OnInit {

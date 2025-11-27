@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Application, isAndroid, isIOS } from "@nativescript/core";
 
 @Component({
-    moduleId: module.id,
+    
     templateUrl: "./app-using-ios-specifics.component.html"
 })
 export class AppUsingIosExampleComponent {
